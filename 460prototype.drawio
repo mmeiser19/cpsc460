@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T20:19:45.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="9YL2C_C-ulCpwsBUAoFG" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T20:30:24.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="GU5j9EU8O-LM_FI87_Bz" version="22.0.8" type="github">
   <diagram name="Page-1" id="XYrzflARZwRtqfOlGOkY">
     <mxGraphModel dx="2954" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,8 +7,11 @@
         <mxCell id="wjIhLSY2ujiyflDLGEPN-2" value="Yay it works!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=52;" parent="1" vertex="1">
           <mxGeometry x="300" y="200" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="1m3Sc8ZatSc5RbQgVQ5o-1" value="&lt;div&gt;Megan can you see this?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="1m3Sc8ZatSc5RbQgVQ5o-1" value="&lt;div&gt;Megan can you see this?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="360" y="498" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FlHK2cGMsPyCp6eRY9bR-1" value="&lt;div&gt;This is another text area&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="620" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
