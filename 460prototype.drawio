@@ -1,38 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T23:23:08.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="9oOWSnPi0hb2pstSNyMH" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T19:15:33.931Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="NU43bRjkm9AXphYw-PHX" version="22.0.8" type="github">
   <diagram name="Page-1" id="XYrzflARZwRtqfOlGOkY">
-    <mxGraphModel dx="5504" dy="2257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3994" dy="1871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VEFbPBKXFdE8StxeSwfn-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2460" y="-680" width="1070" height="710" as="geometry" />
+        <mxCell id="VEFbPBKXFdE8StxeSwfn-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-2450" y="-660" width="1070" height="710" as="geometry" />
         </mxCell>
-        <mxCell id="VEFbPBKXFdE8StxeSwfn-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Main Login Window&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VEFbPBKXFdE8StxeSwfn-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Main Login Window&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2002.5" y="-720" width="155" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VEFbPBKXFdE8StxeSwfn-3" value="Login" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1500" y="-650" width="90" height="30" as="geometry" />
+        <mxCell id="VEFbPBKXFdE8StxeSwfn-6" value="&lt;span style=&quot;font-size: 38px;&quot;&gt;Discrete Math&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-2100" y="-650" width="580" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VEFbPBKXFdE8StxeSwfn-5" value="Create account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1500" y="-610" width="90" height="30" as="geometry" />
+        <mxCell id="VEFbPBKXFdE8StxeSwfn-7" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Topics&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-2430" y="-570" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VEFbPBKXFdE8StxeSwfn-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Title Window ( WordJamAI )&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2430" y="-650" width="910" height="60" as="geometry" />
+        <mxCell id="VEFbPBKXFdE8StxeSwfn-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-2180" y="-570" width="740" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="VEFbPBKXFdE8StxeSwfn-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;List of saved chats&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2430" y="-570" width="200" height="570" as="geometry" />
+        <mxCell id="VEFbPBKXFdE8StxeSwfn-9" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Type here...&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-2080" y="-90" width="580" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VEFbPBKXFdE8StxeSwfn-8" value="Chat Window" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2200" y="-570" width="680" height="560" as="geometry" />
-        </mxCell>
-        <mxCell id="VEFbPBKXFdE8StxeSwfn-9" value="User Text Area ( Also allows for voice input )" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2150" y="-90" width="580" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VEFbPBKXFdE8StxeSwfn-11" value="unused area" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1500" y="-570" width="90" height="570" as="geometry" />
-        </mxCell>
-        <mxCell id="VEFbPBKXFdE8StxeSwfn-12" value="I am thinking that to keep the display window easy to read that we leave the unused area empty. What are your thoughts?&lt;br&gt;&lt;br&gt;Is this how we want to prototype stuff for our project?&lt;br&gt;&lt;br&gt;I think we should also make a simple layout for a mobile application too.&lt;br&gt;&lt;br&gt;My thinking is that for this project we should prototype a main page, a main login page, and a settings page. If we do a mobile layout, we should do the same three.&lt;br&gt;&lt;br&gt;I am open to all of your ideas and please let me know what else I can do with the prototyping stuff." style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+        <mxCell id="VEFbPBKXFdE8StxeSwfn-12" value="I am thinking that to keep the display window easy to read that we leave the unused area empty. What are your thoughts?&lt;br&gt;&lt;br&gt;Is this how we want to prototype stuff for our project?&lt;br&gt;&lt;br&gt;I think we should also make a simple layout for a mobile application too.&lt;br&gt;&lt;br&gt;My thinking is that for this project we should prototype a main page, a main login page, and a settings page. If we do a mobile layout, we should do the same three.&lt;br&gt;&lt;br&gt;I am open to all of your ideas and please let me know what else I can do with the prototyping stuff." style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="1" vertex="1">
           <mxGeometry x="-1370" y="-570" width="430" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="lRxPT_pOlVi8VR7Kf76E-8" value="&lt;ul style=&quot;font-size: 21px;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Linear Independence&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;World War 2&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Spanish - Irregular Conjugation&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-2430" y="-510" width="230" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="lRxPT_pOlVi8VR7Kf76E-9" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Ask a Questiion&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2080" y="-140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lRxPT_pOlVi8VR7Kf76E-10" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Explain&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1940" y="-140" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
